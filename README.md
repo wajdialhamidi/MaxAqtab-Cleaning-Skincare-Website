@@ -36,7 +36,7 @@ The website includes a **full admin dashboard**, allowing the company to manage 
 |------------|-------------|
 | **Frontend** | HTML, CSS, JavaScript, Bootstrap / Tailwind (depending on implementation) |
 | **Backend** | PHP / Laravel (for admin dashboard and content management) |
-| **Database** | MySQL / MariaDB |
+| **Database** | MySQL |
 | **Email Integration** | Contact form notifications |
 | **Version Control** | Git & GitHub |
 | **Deployment** | Shared hosting / VPS |
